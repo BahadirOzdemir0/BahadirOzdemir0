@@ -1,4 +1,4 @@
-(https://hizliresim.com/n0vhb7v)
+[![MasterHead](https://hizliresim.com/n0vhb7v)
 https://github.com/BahadirOzdemir0<h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">Inovative Engineer Specializing in Embedded Systems and Electronic Design</h3>
 
