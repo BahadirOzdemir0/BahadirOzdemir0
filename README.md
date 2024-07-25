@@ -1,4 +1,4 @@
-https://github.com/BahadirOzdemir0<h1 align="center">Hi 👋, I'm Bahadır</h1>
+<h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">Inovative Engineer Specializing in Embedded Systems and Electronic Design</h3>
 
 - 🔭 I’m currently studying **Electrical and Electronics Engineering at Akdeniz University**
