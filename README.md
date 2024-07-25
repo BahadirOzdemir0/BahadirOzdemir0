@@ -1,4 +1,4 @@
-[![MasterHead]([url=https://hizliresim.com/kupdwav][img]https://i.hizliresim.com/kupdwav.png[/img][/url])]
+[![MasterHead]([[url=https://hizliresim.com/kupdwav][img]https://i.hizliresim.com/kupdwav.png[/img][/url])](https://hizliresim.com/kupdwav)]
 https://github.com/BahadirOzdemir0<h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">Inovative Engineer Specializing in Embedded Systems and Electronic Design</h3>
 
